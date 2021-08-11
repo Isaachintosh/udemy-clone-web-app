@@ -1,0 +1,199 @@
+
+.navbar_header {
+    display: flex;
+    flex-direction: row;
+}
+.main_logo {
+    width: auto;
+    height: 7rem;
+}
+ul.nav_header_list {
+    display: flex;
+    flex-direction: row;
+    align-content: space-around;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.pesquisar_cursos {
+    width: 28rem;
+    padding: 8px;
+    border-radius: 16px;
+}
+
+.input_main_navbar {
+    padding-top: 26px;
+}
+
+.main_navbar {
+    padding-top: 34px;
+}
+
+.user_sticker {}
+
+.nav_categories_list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 0px 0px 16px 0px;
+}
+
+.nav_categories_list_item {}
+
+.banner_container {}
+
+.banner_card {}
+
+.my_courses_catalog {}
+
+.header_my_courses {}
+
+.header_my_courses_title {}
+
+.my_courses_catalog {}
+
+.my_catalog_item {}
+
+.my_course_card {}
+
+.my_course_title {}
+
+.my_course_lession {}
+
+.my_course_description {}
+
+.educaon_business_promotion {}
+
+.promo_title {}
+
+.promo_description {}
+
+.btn_promo_business {}
+
+.ignore_promo {}
+
+.recommended_courses_catalog {}
+
+.header_recomended_courses {}
+
+.header_title {}
+
+.recomendations_courses {}
+
+.recomendations_title {}
+
+.list_recomendations_catalog {}
+
+.recomendations_cards {}
+
+.card_link_to_course {}
+
+.course_preview {}
+
+.course_preview_details {}
+
+.course_preview_title {}
+
+.course_authors {}
+
+.course_ratings {}
+
+.ratings_index {}
+
+.star_rating {}
+
+.quantity_of_students {}
+
+.course_prices {}
+
+.actual_price {}
+
+.integral_price {}
+
+.other_courses {}
+
+.recomended_topics {}
+
+.recomended_topics_title {}
+
+.recomended_topics_list {}
+
+.recomended_topics_item {}
+
+.recomended_topics_link {}
+
+.main_courses {}
+
+.courses_user_lang_title {}
+
+.courses_user_lang_list {}
+
+.recomendations_based_last_search {}
+
+.recomendations_based_most_saw {}
+
+.recomendations_to_continues {}
+
+.recomendations_continues_title {}
+
+.recomendations_aeras_interest {}
+
+.areas_of_interests {}
+
+.interests_group {}
+
+.interest_item {}
+
+.choosen_interested_courses {}
+
+.courses_add_desired_list {}
+
+.desired_list_title {}
+
+.desired_courses_list {}
+
+.recomendations_1st_technology {}
+
+.recomendations_technology_area {}
+
+.choose_tech_theme {}
+
+.tech_item {}
+
+.result_recomendations_for_tech {}
+
+.recomendations_2nd_technology {}
+
+.share_your_knowledge_area {}
+
+.share_knowledge_title {}
+
+.share_knowledge_description {}
+
+.promo_business_partners {}
+
+.promotion_business_plan {}
+
+.busines_partners {}
+
+.partners_item {}
+
+.partners_link {}
+
+.navigation_internal_links {}
+
+.footer_links_list {}
+
+.footer_links_item {}
+
+.footer_links {}
+
+.carrers_and_support {}
+
+.therms_and_policy {}
+
+.authors_of_system {}
+
+.footer_logo {}
+
+.copywright_brand {}
